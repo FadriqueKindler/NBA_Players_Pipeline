@@ -1,7 +1,7 @@
 # NBA_Players_Pipeline
 Shows you the full stats for the 50 high scorers in NBA history
 
-## .py Files
+## Files
 
 -> Functions.py:
 Contains all the functions in the pipeline. It is separated into three distinct parts:
